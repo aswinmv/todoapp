@@ -1,8 +1,3 @@
-# ToDo App
-
-A new Flutter project.
-
-
 
 # ToDo App
 
@@ -86,7 +81,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Special thanks to the Flutter and Hive communities for their awesome contributions.
 
-##screshots
+
+
+
+## ScreenShots
 
 
 
