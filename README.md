@@ -22,9 +22,8 @@ The ToDo app is a simple task management application that allows users to create
 
 ## Hive: Lightweight NoSQL Database for Flutter
 
-![Hive Logo]([https://hive.dapptoolkit.com/assets/logo.png](https://miro.medium.com/v2/resize:fit:828/format:webp/0*A0FNDFSxId9D5Ipa.png))
 
-[Hive](https://[https://hive.apache.org/) 
+
 is a fast and lightweight NoSQL database for Flutter, designed for local storage in mobile and web applications.
 With its simplicity and performance, Hive is an excellent choice for handling local data persistence efficiently.
 
@@ -77,7 +76,6 @@ Explore Hive and discover a powerful yet lightweight solution for local data sto
 
 ---
 
-Feel free to customize the description or image link based on your preferences and the specific details you want to highlight.
 
 ## Getting Started
 
